@@ -1,4 +1,9 @@
+
 Algoritmo "dobroDoNumero"
+
+/*Crie um algoritmo que receba um número 
+digitado pelo usuário e mostre o valor de seu 
+dobro*/
 
 Var
 
